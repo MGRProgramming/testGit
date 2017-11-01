@@ -11,3 +11,5 @@ And the 4th (remote) change...
 And the 5th change (local)
 
 Adding the 6th change in the branch
+
+Adding change #7
