@@ -13,3 +13,5 @@ And the 5th change (local)
 Adding the 6th change in the branch
 
 Adding change #7
+
+Adding change #8 to study diff
